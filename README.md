@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="320" />
 I'm Bárbara but you can call me Barbs, I'm a back end developer with experience in business applications. My journey started in 2017, when I got into Computer Science on Federal University of Fronteira Sul. ✨
 <br><br>
-Since then, I found my passion in developing. After working in many personal projects, and enterprise projects, I’m looking forward to bringing that passion to a full-time role. 💕
+Since then, I found my passion in developing. 💕
 <br>
 
 ### Languages and Tools 👾
