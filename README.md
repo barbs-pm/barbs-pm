@@ -8,7 +8,7 @@ Since then, I found my passion in developing. 💕
 
 ### Languages and Tools 👾
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"/> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"/> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="50"/>
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"/> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"/> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="50"/>
 
 ### Follow me 🦊
 <a href="https://twitter.com/barbs_pegoraro">
